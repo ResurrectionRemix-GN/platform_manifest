@@ -11,5 +11,8 @@
   <!-- Misc  -->
   <project path="external/jhead" name="platform/external/jhead" remote="aosp" revision="nougat-mr2.3-release" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7-linaro" name="ResurrectionRemix-GN/arm-eabi-4.7-linaro" revision="master" />
+  <project path="hardware/ti/wlan" name="ResurrectionRemix-GN/android_hardware_ti_wlan" revision="stable" groups="pdk,omap4,wlan" />
+  <project path="hardware/ti/wpan" name="ResurrectionRemix-GN/android_hardware_ti_wpan" revision="stable" groups="pdk,omap4,bt" />
+  <project path="hardware/broadcom/wlan" name="ResurrectionRemix-GN/android_hardware_broadcom_wlan" revision="aosp-7.1" groups="pdk,broadcom_wlan" />
 </manifest>
 
