@@ -19,7 +19,7 @@
            sync-j="16" />
 
   <remote  name="rr"
-	   fetch="https://github.com/ResurrectionRemix"
+	   fetch="https://github.com/ResurrectionRemix-GN"
 	   revision="nougat" />
 
   <!-- AOSP Projects -->
