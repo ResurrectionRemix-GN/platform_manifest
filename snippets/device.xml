@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Galaxy Nexus -->
+  <project path="device/samsung/tuna" name="ResurrectionRemix-GN/android_device_samsung_tuna" />
+  <project path="kernel/samsung/tuna" name="ResurrectionRemix-GN/android_kernel_samsung_tuna" />
+  <project path="vendor/ti" name="ResurrectionRemix-GN/proprietary_vendor_ti" />
+  <project path="vendor/widevine" name="ResurrectionRemix-GN/proprietary_vendor_widevine" />
+  <project path="vendor/samsung" name="ResurrectionRemix-GN/proprietary_vendor_samsung" />
+  <project path="hardware/ti/omap4" name="ResurrectionRemix-GN/android_hardware_ti_omap4" />
+  <!-- Misc  -->
+  <project path="external/jhead" name="platform/external/jhead" remote="aosp" revision="nougat-mr2.3-release" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7-linaro" name="ResurrectionRemix-GN/arm-eabi-4.7-linaro" revision="master" />
+</manifest>
+
