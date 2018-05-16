@@ -29,6 +29,7 @@
   <project path="external/yaffs2" name="LineageOS/android_external_yaffs2" />
   <project path="external/zip" name="LineageOS/android_external_zip" />
   <project path="hardware/cyanogen" name="LineageOS/android_hardware_cyanogen" />
+  <project path="frameworks/ex" name="LineageOS/android_frameworks_ex" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/opt/hardware" name="LineageOS/android_frameworks_opt_hardware" />
   <project path="packages/apps/AudioFX" name="LineageOS/android_packages_apps_AudioFX" />
   <project path="packages/apps/CMFileManager" name="LineageOS/android_packages_apps_CMFileManager" />
