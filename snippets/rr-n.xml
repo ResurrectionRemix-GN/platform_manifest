@@ -13,6 +13,7 @@
   <project path="packages/apps/PhoneCommon" name="android_packages_apps_PhoneCommon" remote="rr" />
   <project path="packages/apps/OmniSwitch" name="android_packages_apps_OmniSwitch" remote="rr" />
   <project path="packages/apps/StorageManager" name="android_packages_apps_StorageManager" remote="rr" />
+  <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="rr" groups="pdk-fs" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="rr" />
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="rr" />
   <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="rr" />
